@@ -1,0 +1,13 @@
+source_file,dataset,num_threads,max_time_in_ms,avg_time_in_ms,total_iterations,total_exec_time_ms
+fpk_gemini.cpp,dataset_1000000.txt,16,182.354,169.057,2202,372268
+fpk_gemini.cpp,dataset_1000000.txt,8,199.224,166.843,2202,367392
+fpk_gemini.cpp,dataset_1000000.txt,4,217.277,206.798,2202,455373
+fpk_gemini.cpp,dataset_1000000.txt,2,295.972,278.027,2202,612221
+fpk_gemini.cpp,dataset_500000.txt,16,99.481,82.2524,1658,136392
+fpk_gemini.cpp,dataset_500000.txt,8,85.048,79.2698,1658,131432
+fpk_gemini.cpp,dataset_500000.txt,4,105.871,98.8231,1658,163852
+fpk_gemini.cpp,dataset_500000.txt,2,147.51,136.978,1658,227113
+fpk_gemini.cpp,dataset_100000.txt,16,37.867,15.7796,650,10258
+fpk_gemini.cpp,dataset_100000.txt,8,17.552,12.9715,650,8432.38
+fpk_gemini.cpp,dataset_100000.txt,4,18.512,16.4919,650,10720.6
+fpk_gemini.cpp,dataset_100000.txt,2,26.52,23.6471,650,15371.4

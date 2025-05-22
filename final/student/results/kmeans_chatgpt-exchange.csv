@@ -1,0 +1,7 @@
+Implementation,Dataset,Time(ms)
+o4,dataset_10000000.txt,3629508
+o4,dataset_1000000.txt,43206
+o4,dataset_100000.txt,3977
+o4,dataset_50000000.txt,9466831
+o4,dataset_5000000.txt,622495
+o4,dataset_500000.txt,44667

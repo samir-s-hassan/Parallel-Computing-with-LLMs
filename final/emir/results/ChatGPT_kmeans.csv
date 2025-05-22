@@ -1,0 +1,8 @@
+dataset,duration
+dataset_10000000.txt,Time taken: 6077818 μs
+dataset_1000000.txt,Time taken: 581860 μs
+dataset_100000.txt,Time taken: 56059 μs
+dataset_50000000.txt,Time taken: 30554174 μs
+dataset_5000000.txt,Time taken: 2889868 μs
+dataset_500000.txt,Time taken: 317145 μs
+dataset_drybean.txt,Time taken: 3549 μs

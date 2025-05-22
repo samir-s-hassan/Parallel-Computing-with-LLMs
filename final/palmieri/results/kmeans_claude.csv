@@ -1,0 +1,13 @@
+source_file,dataset,num_threads,max_time_in_ms,avg_time_in_ms,total_iterations,total_exec_time_ms
+fpk_claude.cpp,dataset_1000000.txt,16,111,80.3106,2202,176847
+fpk_claude.cpp,dataset_1000000.txt,8,75,46.2343,2202,101811
+fpk_claude.cpp,dataset_1000000.txt,4,87,60.6017,2202,133449
+fpk_claude.cpp,dataset_1000000.txt,2,157,110.488,2202,243304
+fpk_claude.cpp,dataset_500000.txt,16,101,65.1815,1658,108073
+fpk_claude.cpp,dataset_500000.txt,8,43,22.3257,1658,37018
+fpk_claude.cpp,dataset_500000.txt,4,41,30.4789,1658,50536
+fpk_claude.cpp,dataset_500000.txt,2,62,50.5109,1658,83748
+fpk_claude.cpp,dataset_100000.txt,16,2,2.09231,650,1360
+fpk_claude.cpp,dataset_100000.txt,8,2,2.47385,650,1609
+fpk_claude.cpp,dataset_100000.txt,4,5,4.82615,650,3137
+fpk_claude.cpp,dataset_100000.txt,2,9,8.82154,650,5734

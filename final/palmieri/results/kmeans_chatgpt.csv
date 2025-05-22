@@ -1,0 +1,7 @@
+source_file,dataset,max_time_in_ms,avg_time_in_ms,iterations,total_time_in_ms
+fpk_chat.cpp,drybean/drybean1.txt,3.35306,0.3151,15,4.75662
+fpk_chat.cpp,dataset_10000000.txt,842.996,151.901,7115,1.08081e+06
+fpk_chat.cpp,dataset_5000000.txt,412.229,75.4982,5242,395783
+fpk_chat.cpp,dataset_1000000.txt,83.7136,14.5677,2202,32086.5
+fpk_chat.cpp,dataset_500000.txt,23.0307,6.54338,1658,10854.2
+fpk_chat.cpp,dataset_100000.txt,8.73864,1.26297,650,822.641

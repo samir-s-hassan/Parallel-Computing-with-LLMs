@@ -1,0 +1,7 @@
+Implementation,Dataset,Time(μs)
+claude,dataset_10000000.txt,3184521096
+claude,dataset_1000000.txt,52961997
+claude,dataset_100000.txt,4588725
+claude,dataset_50000000.txt,8018010234
+claude,dataset_5000000.txt,524272628
+claude,dataset_500000.txt,38687677
